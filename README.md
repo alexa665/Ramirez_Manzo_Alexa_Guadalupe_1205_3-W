@@ -10,8 +10,16 @@ Después debe mostrar por pantalla el mensaje
 tiene <edad> años, 
 vive en <dirección> 
 y su número de teléfono es <teléfono>
-![image](https://github.com/user-attachments/assets/c9dd8a84-233c-4de2-b3dc-a4ad82665634)
+![image](https://github.com/user-attachments/assets/eb71136d-4a1d-4667-801f-286987a967ef)
 ![image](https://github.com/user-attachments/assets/b435edca-c1f7-4a4a-9621-2b362d2d2da5)
+3-Guardar en un diccionario precios de las frutas en una matriz, luego preguntar al usuario por 
+fruta, un número de kilos mostrar el precio de ese número de kilos de fruta.
+Si no está la fruta no está en el diccionario debe mostrar un mensaje informando eso mismo
+![image](https://github.com/user-attachments/assets/dbac2324-7f51-4985-b3df-021750f766c8)
+![image](https://github.com/user-attachments/assets/37b571af-454f-4b3f-8386-2a005be82fe4)
+
+
+
 
 
 
